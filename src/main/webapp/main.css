@@ -10,3 +10,36 @@
 pre {
     width: 80%;
 }
+
+.border
+{
+    background-color: #F5F5F5;
+    padding-left: 5px;
+    width: 500px;
+    color: black;
+    border-width: 2px 2px 2px 10px;
+    border-style: solid;
+    border-radius: 0px 10px 10px 0px;
+}
+
+html, body
+{
+    height: 100%;
+}
+body
+{
+    background-color: cornflowerblue;
+    font-family: 'Audiowide', cursive;
+    margin: 0px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+#usertopname {
+    font-size: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
